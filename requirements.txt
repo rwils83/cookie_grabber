@@ -9,7 +9,7 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 pyee==7.0.3
 pyppeteer==0.2.2
-requests==2.24.0
+requests==2.31.0
 tqdm==4.48.2
 urllib3==1.26.5
 websockets==10.0
